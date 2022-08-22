@@ -1,12 +1,12 @@
 
-## awesome CLI
+##  awesome CLI 🔧 
 
 > 开发者必备的CLI命令行工具有哪些？ 持续收录中..
 
 
-### 开发者必备
+### 开发者必备 🚀 
 
-- [Apifox CLI] (https://apifox.cn): 接口管理神器Apifox提供的，支持持续集成接口自动化测试CLI命令行工具
+- [Apifox CLI](https://apifox.cn): 接口管理神器Apifox提供的，支持持续集成接口自动化测试CLI命令行工具
 - [Caniuse-cmd](https://github.com/sgentle/caniuse-cmd): caniuse提供的命令行工具，支持Web API兼容性的测试
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli): 生成好看的代码展示图片CLI工具
 - [add-gitignore](https://github.com/TejasQ/add-gitignore): 根据您的需要，为您的项目交互式生成.gitignore。
